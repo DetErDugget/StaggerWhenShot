@@ -1,4 +1,4 @@
-[Original-Release](https://forum.cfx.re/t/release-stagger-when-shot/2801686/19"Original-Release)
+[Original-Release](https://forum.cfx.re/t/release-stagger-when-shot/2801686/19)
 by anthony6270 on cfx forums
 
 Optimized & tested. 
